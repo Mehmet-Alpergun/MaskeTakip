@@ -1,0 +1,15 @@
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Businnes.deps.json
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Businnes.dll
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Businnes.pdb
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Entities.dll
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Entities.pdb
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.csproj.AssemblyReference.cache
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.AssemblyInfoInputs.cache
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.AssemblyInfo.cs
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.csproj.CopyComplete
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.dll
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\refint\Businnes.dll
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.pdb
+C:\Users\Mehmet Alpergün\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\ref\Businnes.dll
